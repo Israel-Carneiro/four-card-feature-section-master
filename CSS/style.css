@@ -13,3 +13,7 @@
     /* Font */
     --poppins: 'Poppins';
 }
+
+body {
+    margin: 3rem 1rem;
+}
