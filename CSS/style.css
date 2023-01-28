@@ -15,5 +15,9 @@
 }
 
 body {
-    margin: 3rem 1rem;
+    margin: 6rem 2rem;
+}
+
+.first-content {
+    margin-bottom: 6rem;
 }
