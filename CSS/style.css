@@ -35,3 +35,10 @@ body {
     font-weight: 400;
     color: var(--grayish-blue);
 }
+
+.box {
+    padding: 1rem 2rem 6rem 2rem;
+    box-shadow: 0px 15px 15px -5px var(--grayish-blue);
+    border-radius: 4px;
+    margin: 2rem 0;
+}
