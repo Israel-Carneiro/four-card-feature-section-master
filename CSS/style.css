@@ -53,3 +53,10 @@ body {
     font-size: .8rem;
     color: var(--grayish-blue);
 }
+
+.box1 {
+    border-top: solid 4px var(--cyan);
+    background-image: url(../images/icon-supervisor.svg);
+    background-repeat: no-repeat;
+    background-position: 90% 90%;
+}
