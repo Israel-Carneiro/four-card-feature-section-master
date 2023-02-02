@@ -74,3 +74,10 @@ body {
     background-repeat: no-repeat;
     background-position: 85% 80%;
 }
+
+.box4 {
+    border-top: solid 4px var(--blue);
+    background-image: url(../images/icon-calculator.svg);
+    background-repeat: no-repeat;
+    background-position: 85% 80%;
+}
