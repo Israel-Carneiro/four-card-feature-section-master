@@ -67,3 +67,10 @@ body {
     background-repeat: no-repeat;
     background-position: 85% 80%;
 }
+
+.box3 {
+    border-top: solid 4px var(--orange);
+    background-image: url(../images/icon-karma.svg);
+    background-repeat: no-repeat;
+    background-position: 85% 80%;
+}
