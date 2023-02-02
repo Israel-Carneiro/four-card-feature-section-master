@@ -60,3 +60,10 @@ body {
     background-repeat: no-repeat;
     background-position: 85% 80%;
 }
+
+.box2 {
+    border-top: solid 4px var(--red);
+    background-image: url(../images/icon-team-builder.svg);
+    background-repeat: no-repeat;
+    background-position: 85% 80%;
+}
