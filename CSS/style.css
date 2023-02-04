@@ -106,4 +106,9 @@ body {
         display: grid;
         grid-area: box1;
     }
+
+    .box2 {
+        display: grid;
+        grid-area: box2;
+    }
 }
