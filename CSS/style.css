@@ -111,4 +111,9 @@ body {
         display: grid;
         grid-area: box2;
     }
+
+    .box3 {
+        display: grid;
+        grid-area: box3;
+    }
 }
