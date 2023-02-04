@@ -96,4 +96,9 @@ body {
         ". box1 box3 box4 ."
         ". . box3 . .";
     }
+
+    .first-content {
+        display: grid;
+        grid-area: content;
+    }
 }
