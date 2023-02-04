@@ -85,6 +85,7 @@ body {
 
 @media screen and (min-width: 1024px) {
     body {
+        margin: 1rem 0;
         display: grid;
         column-gap: 2rem;
         grid-template-columns: 10% 1fr 1fr 1fr 10%;
@@ -100,6 +101,11 @@ body {
     .first-content {
         display: grid;
         grid-area: content;
+        margin: 1rem 14rem;
+    }
+
+    .box {
+        margin: 0;
     }
 
     .box1 {
@@ -110,6 +116,7 @@ body {
     .box2 {
         display: grid;
         grid-area: box2;
+        margin-bottom: 2rem;
     }
 
     .box3 {
