@@ -89,7 +89,7 @@ body {
         display: grid;
         column-gap: 2rem;
         grid-template-columns: 10% 1fr 1fr 1fr 10%;
-        grid-template-rows: 2fr 1fr 1fr 1fr 1fr;
+        grid-template-rows: 1.5fr 1fr 1fr 1fr 1fr;
         grid-template-areas:
         ". content content content ."
         ". . box2 . ."
@@ -101,7 +101,7 @@ body {
     .first-content {
         display: grid;
         grid-area: content;
-        margin: 1rem 14rem;
+        margin: 1rem 15rem;
     }
 
     .box {
