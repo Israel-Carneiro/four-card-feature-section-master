@@ -110,20 +110,24 @@ body {
     .box1 {
         display: grid;
         grid-area: box1;
+        background-size: 20%;
     }
 
     .box2 {
         display: grid;
         grid-area: box2;
+        background-size: 20%;
     }
 
     .box3 {
         display: grid;
         grid-area: box3;
+        background-size: 20%;
     }
 
     .box4 {
         display: grid;
         grid-area: box4;
+        background-size: 20%;
     }
 }
