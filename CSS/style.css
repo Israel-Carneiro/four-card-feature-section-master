@@ -105,6 +105,7 @@ body {
 
     .box {
         margin: 0;
+        max-height: 5rem;
     }
 
     .box1 {
