@@ -111,6 +111,10 @@ body {
     .box__title {
         font-size: 1rem;
     }
+    
+    .box__text {
+        font-size: .6rem;
+    }
 
     .box1 {
         display: grid;
