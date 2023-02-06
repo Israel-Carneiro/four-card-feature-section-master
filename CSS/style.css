@@ -101,6 +101,7 @@ body {
     .first-content {
         display: grid;
         grid-area: content;
+        margin: 1rem 14rem;
     }
 
     .box {
